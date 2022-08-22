@@ -3,4 +3,4 @@ Nos diretórios podem ser encontrados os seguintes projetos utilizando Padrões 
 
 ## Strategy
 Diretório: Estratégia
-Diagrama de Classes: ![Strategy Pattern](/Diagramas/Strategy.jpg "Strategy Pattern")
+Diagrama de Classes: ![Strategy Pattern](./Diagramas/Strategy.jpg "Strategy Pattern")
