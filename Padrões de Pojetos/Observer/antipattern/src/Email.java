@@ -1,4 +1,4 @@
-package pattern;
+package antipattern;
 
 public class Email {
 	public void enviarEmail(Operacao operacao) {

@@ -1,6 +1,6 @@
 package antipattern;
 
-public class Log implements Observer{
+public class Log{
 	public void logar(Operacao operacao) {
 		String message = "Operação: " + operacao.getTipo();
 		if(operacao.isConcluido())
