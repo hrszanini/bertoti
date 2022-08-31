@@ -1,4 +1,3 @@
-package pattern;
 
 public class Log implements Subscriber{
 	public void logar(Operacao operacao) {

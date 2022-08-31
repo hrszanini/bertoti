@@ -1,4 +1,3 @@
-package antipattern;
 
 public abstract class Pagamento {
 	

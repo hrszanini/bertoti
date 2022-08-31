@@ -1,10 +1,9 @@
-package antipattern;
 
 public class Log{
 	public void logar(Operacao operacao) {
-		String message = "Operação: " + operacao.getTipo();
+		String message = "Operaï¿½ï¿½o: " + operacao.getTipo();
 		if(operacao.isConcluido())
-			message += " [Concluída]";
+			message += " [Concluï¿½da]";
 		
 		System.out.println(message);
 	}

@@ -1,4 +1,3 @@
-package pattern;
 
 public class Fisico implements FormaGeracao {
 	

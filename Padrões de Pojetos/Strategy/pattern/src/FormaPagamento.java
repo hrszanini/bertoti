@@ -1,4 +1,3 @@
-package pattern;
 
 public interface FormaPagamento {
 	

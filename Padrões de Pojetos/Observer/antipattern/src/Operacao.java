@@ -1,4 +1,3 @@
-package antipattern;
 
 public class Operacao {
 	private String tipo;

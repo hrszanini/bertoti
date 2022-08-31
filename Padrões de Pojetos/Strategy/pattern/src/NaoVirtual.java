@@ -1,8 +1,7 @@
-package pattern;
 
 public class NaoVirtual implements FormaPagamento{
 	
 	public void pagar() {
-		System.out.println("Não Pago");
+		System.out.println("Nï¿½o Pago");
 	}
 }
