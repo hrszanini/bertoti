@@ -2,7 +2,7 @@ package pattern;
 
 public class Email implements Subscriber{
 	public void enviarEmail(Operacao operacao) {
-		System.out.println("Email enviado da operação: " + operacao.getTipo());
+		System.out.println("Email enviado da operaï¿½ï¿½o: " + operacao.getTipo());
 	}
 
 	public void update(Operacao operacao) {
