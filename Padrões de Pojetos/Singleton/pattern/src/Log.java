@@ -6,12 +6,12 @@ public class Log {
     private String logLevel;
 
     private Log(){
-        log = "Info";
+        logLevel = "Info";
     }
 
     public Log getInstance(){
         if(log == null){
-            log = Log();
+            log = new Log();
         }
 
         return log;
