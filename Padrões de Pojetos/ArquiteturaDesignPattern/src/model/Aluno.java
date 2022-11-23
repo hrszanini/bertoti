@@ -1,4 +1,4 @@
-package ArquiteturaDesignPattern.src.model;
+package src.model;
 
 class Aluno {
     
