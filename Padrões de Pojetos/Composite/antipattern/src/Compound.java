@@ -1,13 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
-import Leaf;
 
 public class Compound{
     
     private List<Leaf> leafs;
 
     public Compound(){
-        leafs = new ArrayList<Component>();
+        leafs = new ArrayList<Leaf>();
     }
 
     public List<Leaf> getLeafs(){
