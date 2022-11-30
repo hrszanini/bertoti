@@ -7,11 +7,11 @@ import src.model.Aluno;
 import src.model.Base;
 import src.model.Turma;
 
-public class View implements Observer{
+public class CreateView implements Observer{
     private Controller<Aluno> alunoController = new AlunoController();
     private Controller<Turma> turmaController = new TurmaController();
 
-    public View(){
+    public CreateView(){
         Base.getInstance().registerObserver(this);
     }
 
