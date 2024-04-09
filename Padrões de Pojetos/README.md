@@ -5,19 +5,19 @@ Nos diretórios podem ser encontrados os seguintes projetos utilizando Padrões 
 * [Pattern](./Strategy/pattern)
 
 ## Singleton
-* [Pattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Singleton/pattern)
+* [Pattern](./Singleton/pattern)
 
 ## Observer
-* [Pattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Observer/pattern)
-* [Antipattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Observer/antipattern)
+* [Pattern](./Observer/pattern)
+* [Antipattern](./Observer/antipattern)
 
 ## Composite
-* [Pattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Composite/pattern)
-* [Antipattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Composite/antipattern)
+* [Pattern](./Composite/pattern)
+* [Antipattern](./Composite/antipattern)
 
 ## Facade
-* [Pattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Facade/pattern)
-* [Antipattern](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Facade/antipattern)
+* [Pattern](./Facade/pattern)
+* [Antipattern](./Facade/antipattern)
 
 ## Arquitetura
-* [UML](https://github.com/hrszanini/bertoti/tree/main/Padr%C3%B5es%20de%20Pojetos/Arquitetura)
+* [UML](./Arquitetura)
